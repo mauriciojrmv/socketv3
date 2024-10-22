@@ -19,6 +19,8 @@ El proyecto está organizado de manera modular, con cada funcionalidad important
 
 └── **cliente.py**              Archivo principal que ejecuta el cliente
 
+└── **conexion.py**              Archivo donde tenemos los valores que se añadiran a la lista
+
 ## Requisitos
 
 **Python 3.x** (de preferencia la última versión estable)

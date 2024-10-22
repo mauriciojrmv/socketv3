@@ -1,6 +1,6 @@
 import socket  # Importa la biblioteca de sockets de Python
 from hilo_conexiones import HiloConexiones  # Importa la clase HiloConexiones
-from conexion import Conexion  # Importa la clase Conexion
+from conexion import Conexion  # Importamos la clase Conexion
 
 # Clase 2: Servidor - Configura el socket y maneja las conexiones
 class Servidor:
